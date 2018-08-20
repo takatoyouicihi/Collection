@@ -2,7 +2,7 @@
 title: Collection
 description: Stylish, Two-Column Jekyll Theme
 url: https://taylantatli.github.io/Halve
-logo: logo.jpg                                       # Site logo
+logo: images/logo.jpg                                       # Site logo
 locale: en_US
 
 # Left Block Images
